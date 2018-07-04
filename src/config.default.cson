@@ -36,8 +36,8 @@ toast:
     position: 'bottom' # Accepted values: "top", "middle", "bottom".
 
 api:
-    baseUrl: 'http://www.musicapromo.net/'
-    namespace: 'edd-api'
+    baseUrl: 'http://www.musicapromo.net/wp-json'
+    namespace: '/wp/v2'
     timeout: 30000
     debounceTime: 400
     maxAttempt: 3
@@ -76,23 +76,23 @@ actor:
         per_page: 10
 
 metas:
-    title: 'You app title'
-    description: 'Your app description'
+    title: 'Musica Promo'
+    description: 'Musica Promo. Site de Entretenimento'
     viewport: 'width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover'
     formatDetection: 'telephone=no'
     tapHighlight: 'no'
     themeColor: '#4e8ef7'
     contentSecurityPolicy: "default-src *; img-src *;style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'"
     # Open graph
-    ogTitle: 'You app title'
+    ogTitle: 'Musica Promo'
     ogType: 'website'
-    ogUrl: 'https://yourDomain.com'
-    ogImage: 'https://yourDomain.com/thumbnail.jpg'
+    ogUrl: 'http://www.musicapromo.net'
+    ogImage: 'http://www.musicapromo.netthumbnail.jpg'
     ogImageWidth: 400
     ogImageHeight: 400
     # Twitter card
-    twitterSite: ''
-    twitterCreator: '' # e.g @julienrenaux
+    twitterSite: '@MusicaPromo'
+    twitterCreator: '@mekjr1' 
 
 storage:
     enabled: true

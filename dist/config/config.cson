@@ -3,7 +3,7 @@ title: "Musica Promo. Site de Entretenimento"
 search:
     types: ['posts', 'pages', 'movie']
 api:
-    baseUrl: "http://www.musicapromo.net/"
+    baseUrl: "http://www.musicapromo.net/wp-json"
 
 # Static metas (for SEO purpose)
 # Each page will dynamically overwrite those

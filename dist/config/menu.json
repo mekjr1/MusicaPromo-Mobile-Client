@@ -2,14 +2,14 @@
     {
         "type": "internal",
         "trans": "HOME",
-        "page": "products",
+        "page": "music",
         "icon": "home",
         "navRoot": true
     },
     {
         "type": "internal",
-        "trans": "TABS",
-        "page": "customTabs",
+        "trans": "Artistas",
+        "page": "artists",
         "icon": "albums",
         "navRoot": true
     },
@@ -56,7 +56,7 @@
             {
                 "type": "internal",
                 "trans": "All Movies",
-                "page": "products",
+                "page": "albums",
                 "icon": "videocam",
                 "navRoot": true
             }
