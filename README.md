@@ -1,6 +1,6 @@
 # WordPressClients PWA, Android, iOS
 
-
+[![Build Status](https://travis-ci.org/mekjr1/MusicaPromo-Mobile-Client.svg?branch=master)](https://travis-ci.org/mekjr1/MusicaPromo-Mobile-Client)
 
 
 ## Features
