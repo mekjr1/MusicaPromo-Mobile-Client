@@ -36,8 +36,8 @@ toast:
     position: 'bottom' # Accepted values: "top", "middle", "bottom".
 
 api:
-    baseUrl: 'http://www.musicapromo.net/wp-json/wp/v2/posts'
-    namespace: '/wp/v2'
+    baseUrl: 'http://www.musicapromo.net/'
+    namespace: 'edd-api'
     timeout: 30000
     debounceTime: 400
     maxAttempt: 3

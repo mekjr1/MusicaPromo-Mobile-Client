@@ -2,7 +2,7 @@
     {
         "type": "internal",
         "trans": "HOME",
-        "page": "posts",
+        "page": "products",
         "icon": "home",
         "navRoot": true
     },
@@ -56,7 +56,7 @@
             {
                 "type": "internal",
                 "trans": "All Movies",
-                "page": "download",
+                "page": "products",
                 "icon": "videocam",
                 "navRoot": true
             }
