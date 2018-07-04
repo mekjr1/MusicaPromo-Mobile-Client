@@ -1,12 +1,13 @@
 {
     "name": "wordpress-clients/hybrid",
-    "description": "Build WordPress based PWA, iOS, Android & Windows phones apps in minutes!",
-    "repository": "https://github.com/wordpress-clients/hybrid.git",
+    "description": "Android iOS Hybrid for musicapromo.net using Ionic",
+    "repository": "https://github.com/mekjr1/MusicaPromo-Mobile-Client.git",
     "keywords": [
         "wordpress",
         "ionic",
-        "pwa",
-        "hybrid"
+        "iOS",
+        "Android"
+		"Angular"
     ],
     "scripts": {
         "postdeploy": "npm run build:pwa"

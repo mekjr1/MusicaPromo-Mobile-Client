@@ -1,10 +1,10 @@
 {
-  "name": "wordpress-hybrid-client",
+  "name": "MusicaPromo-Mobile-Client",
+  "description": "Android iOS Hybrid for musicapromo.net using Ionic",
   "version": "3.0.0-alpha03",
-  "description": "Build amazing iOS and Android applications for your WordPress website for free!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shprink/wordpress-hybrid-client.git"
+    "url": "git+https://github.com/mekjr1/MusicaPromo-Mobile-Client.git"
   },
   "keywords": [
     "wp-api",
@@ -16,12 +16,12 @@
     "material design",
     "client"
   ],
-  "author": "Julien Renaux <contact@julienrenaux.fr>",
+  "author": "Abdul Gafar Meque <gafar_meque@hotmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shprink/wordpress-hybrid-client/issues"
+    "url": "https://github.com/mekjr1/MusicaPromo-Mobile-Client/issues"
   },
-  "homepage": "https://github.com/shprink/wordpress-hybrid-client#readme",
+  "homepage": "https://github.com/mekjr1/MusicaPromo-Mobile-Client#readme",
   "scripts": {
     "test": "karma start ./test-config/karma.conf.js",
     "test-ci": "karma start ./test-config/karma-ci.conf.js --single-run",

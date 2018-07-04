@@ -22,18 +22,7 @@
         "trans": "POSTS",
         "icon": "paper",
         "list": [
-            {
-                "type": "internal",
-                "trans": "Hello world",
-                "page": "postsItem",
-                "params": {
-                    "year": "2015",
-                    "month": "11",
-                    "day": "20",
-                    "slug": "hello-world"
-                },
-                "icon": "document"
-            },
+
             {
                 "type": "internal",
                 "trans": "All",
@@ -52,15 +41,6 @@
         "list": [
             {
                 "type": "internal",
-                "trans": "Sample page",
-                "page": "pagesItem",
-                "params": {
-                    "slug": "sample-page"
-                },
-                "icon": "document"
-            },
-            {
-                "type": "internal",
                 "trans": "All",
                 "page": "pages",
                 "icon": "copy",
@@ -75,17 +55,8 @@
         "list": [
             {
                 "type": "internal",
-                "trans": "La vie en rose",
-                "page": "movieItem",
-                "params": {
-                    "slug": "la-vie-en-rose"
-                },
-                "icon": "videocam"
-            },
-            {
-                "type": "internal",
                 "trans": "All Movies",
-                "page": "movie",
+                "page": "download",
                 "icon": "videocam",
                 "navRoot": true
             }
@@ -229,8 +200,8 @@
     },
     {
         "type": "external",
-        "trans": "My blog (external link)",
-        "href": "https://julienrenaux.fr",
+        "trans": "Developer ",
+        "href": "http://www.abdulmeque.com",
         "icon": "link"
     }
 ]
