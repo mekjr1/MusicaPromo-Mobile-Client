@@ -69,7 +69,7 @@ categories:
 
 
 # the example of a custom taxonomies
-actor:
+artist:
     query:
         orderby: 'count'
         order: 'desc'
