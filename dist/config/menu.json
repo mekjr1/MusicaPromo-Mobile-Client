@@ -9,7 +9,7 @@
     {
         "type": "internal",
         "trans": "Artistas",
-        "page": "artists",
+        "page": "artist",
         "icon": "albums",
         "navRoot": true
     },
@@ -26,7 +26,7 @@
             {
                 "type": "internal",
                 "trans": "All",
-                "page": "posts",
+                "page": "playlist",
                 "icon": "paper",
                 "navRoot": true
             }
@@ -55,8 +55,8 @@
         "list": [
             {
                 "type": "internal",
-                "trans": "All Movies",
-                "page": "albums",
+                "trans": "All Musics",
+                "page": "music",
                 "icon": "videocam",
                 "navRoot": true
             }
@@ -73,17 +73,8 @@
         "list": [
             {
                 "type": "internal",
-                "trans": "Uncategorized",
-                "page": "category",
-                "params": {
-                    "id": 1
-                },
-                "icon": "help"
-            },
-            {
-                "type": "internal",
                 "trans": "All",
-                "page": "categories",
+                "page": "genre",
                 "icon": "folder",
                 "navRoot": true
             }
@@ -94,15 +85,6 @@
         "trans": "TAGS",
         "icon": "pricetags",
         "list": [
-            {
-                "type": "internal",
-                "trans": "AngularJS",
-                "page": "tag",
-                "params": {
-                    "id": 16
-                },
-                "icon": "logo-apple"
-            },
             {
                 "type": "internal",
                 "trans": "All",
@@ -119,26 +101,8 @@
         "list": [
             {
                 "type": "internal",
-                "trans": "Audrey Tautou",
-                "page": "actorItem",
-                "params": {
-                    "id": 99
-                },
-                "icon": "film"
-            },
-            {
-                "type": "internal",
-                "trans": "Marion Cotillard",
-                "page": "actorItem",
-                "params": {
-                    "id": 96
-                },
-                "icon": "film"
-            },
-            {
-                "type": "internal",
                 "trans": "All Actors",
-                "page": "actor",
+                "page": "artist",
                 "icon": "film",
                 "navRoot": true
             }

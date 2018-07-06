@@ -1,5 +1,5 @@
 # Here you can overwrite any of the src/config.default.cson
-title: "Musica Promo. Site de Entretenimento"
+title: "MusicaPromo. Site de Entretenimento"
 search:
     types: ['posts', 'pages', 'movie']
 api:
@@ -8,19 +8,19 @@ api:
 # Static metas (for SEO purpose)
 # Each page will dynamically overwrite those
 metas:
-    title: 'MusicaPromo'
-    description: 'Conecta-te ao MusicaPromo.net'
+    title: 'MusicaPromo. Site de Entretenimento'
+    description: 'Atualiza-te com o melhor da musica africana'
     themeColor: '#4e8ef7'
     # Open graph
-    ogTitle: 'Musica Promo. Conecta-te'
+    ogTitle: 'MusicaPromoApp'
     ogType: 'website'
     ogUrl: 'http://www.musicapromo.net'
-    ogImage: 'http://www.musicapromo.net/thumbnail.jpg'
+    ogImage: 'http://www.musicapromo.netthumbnail.jpg'
     ogImageWidth: 400
     ogImageHeight: 400
     # Twitter card
     twitterSite: '@MusicaPromo'
-    twitterCreator: '@mekjr1' 
+    twitterCreator: '@mekjr1' #
 
 admob:
     bannerEnabled: false
