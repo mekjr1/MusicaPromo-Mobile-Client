@@ -83,5 +83,5 @@ export const COMPONENTS = [
     ActorListComponent,
 	MusicItemComponent,
 	MusicListComponent,
-	ArtistItemComponent,
+	ArtistListComponent,
 ];
